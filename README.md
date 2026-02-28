@@ -22,4 +22,4 @@ This project analyzes historical Apple (AAPL) stock price data and performs time
 The project demonstrates financial data analysis skills and time-series forecasting concepts.
 
 ## Author
-Soumya Padhi
+Soumya Ranjan Padhi
